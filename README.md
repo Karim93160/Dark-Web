@@ -1,4 +1,5 @@
 🚀 DARK-WEB ACCESS
+![GitHub Gif](https://github.com/Karim93160/Dar-Web/blob/a75d1adc6d3d726b441609b116486e2a9b72424b/3oKIPlCroSFHV8uoko.gif)
 Ultimate Terminal Tool
 [![Version](https://img.shields.io/badge/Version-1.0-blue)]()  
 [![Status](https://img.shields.io/badge/Status-Stable-brightgreen)]()  
@@ -10,15 +11,14 @@ Ultimate Terminal Tool
 [![Cyberpunk](https://img.shields.io/badge/Style-Cyberpunk-pink)]()  
 [![Anonymous](https://img.shields.io/badge/Anonymous-Browsing-black)]()  
 [![Lynx](https://img.shields.io/badge/Lynx-Terminal%20Browser-green)]()
-
+![GitHub Gif](https://github.com/Karim93160/Dar-Web/blob/a75d1adc6d3d726b441609b116486e2a9b72424b/3ohuPmPujsVYeo91oQ.gif)
 
 
 
 🔹 Dark-Web Access est un outil de navigation sur le Dark Web en terminal avec Tor, Privoxy et Lynx.
 🔹 Il offre un accès rapide et sécurisé aux moteurs de recherche .onion via un menu interactif immersif.
 
-
----
+![GitHub Gif](https://github.com/Karim93160/Dar-Web/blob/a75d1adc6d3d726b441609b116486e2a9b72424b/l4FGv866Xu8lsBUOc.gif)
 
 📌 FONCTIONNALITÉS
 
@@ -31,7 +31,7 @@ Ultimate Terminal Tool
 ✅ Effets Cyberpunk et animation immersive
 
 
----
+
 
 📥 INSTALLATION RAPIDE (Copie-Colle sur Termux)
 
@@ -43,7 +43,7 @@ chmod +x dark-web
 ./dark-web
 
 
----
+![GitHub Gif](https://github.com/Karim93160/Dar-Web/blob/a75d1adc6d3d726b441609b116486e2a9b72424b/xTiIzqnLJgIgKqHgxW.gif)
 
 📖 UTILISATION
 
