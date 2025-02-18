@@ -37,7 +37,7 @@ Ultimatool
 
 📥 INSTALLATION RAPIDE (Copie-Colle sur Termux)
 ```
-pkg update -y && pkg upgrade -y && pkg install git -y && git clone https://github.com/Karim93160/Dark-Web.git && cd Dark-Web && chmod +x dark-web && ./dark-web
+pkg update -y && pkg upgrade -y && pkg install git -y && git clone https://github.com/Karim93160/Dark-Web.git && cd Dark-Web && chmod +x dark-web && mv dark-web /data/data/com.termux/files/usr/bin/ && chmod +x /data/data/com.termux/files/usr/bin/dark-web && dark-web
 ```
 
 ![GitHub Gif](https://github.com/Karim93160/Dar-Web/blob/a75d1adc6d3d726b441609b116486e2a9b72424b/xTiIzqnLJgIgKqHgxW.gif)
