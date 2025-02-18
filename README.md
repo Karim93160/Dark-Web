@@ -1,4 +1,5 @@
-🚀 DARK-WEB ACCESS - Ultimate Terminal Tool
+🚀 DARK-WEB ACCESS
+Ultimate Terminal Tool
 [![Version](https://img.shields.io/badge/Version-1.0-blue)]()  
 [![Status](https://img.shields.io/badge/Status-Stable-brightgreen)]()  
 [![Platform](https://img.shields.io/badge/Platform-Termux-orange)]()  
@@ -83,3 +84,4 @@ chmod +x dark-web
 
 🔥 Clonez, utilisez et explorez en toute sécurité ! 🔥
 
+#darkweb #onion #termux #tor #cybersecurity #hacking #privoxy #anonymous #darknet #deepweb #opensource #privacy #security #lynx #cyberpunk #linux #termuxscripts #opensourceproject #terminaltool #pentesting #darkwebaccess
