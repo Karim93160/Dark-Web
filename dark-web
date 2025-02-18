@@ -1,4 +1,8 @@
 #!/bin/bash
+# 🔥 Ajustement automatique de la taille du terminal (compact)
+stty cols 60 rows 20 2>/dev/null
+resize -s 20 60 2>/dev/null
+clear
 
 # 🔥 Nettoyage du terminal pour une immersion totale
 clear
