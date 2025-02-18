@@ -123,3 +123,8 @@ case $choice in
   0) echo -e "\e[1;35m🔥 Fermeture du programme.\e[0m" | lolcat; exit 0 ;;
   *) echo -e "\e[1;31m❌ Option invalide.\e[0m" | lolcat; exit 1 ;;
 esac
+# 🔥 Affichage de la signature
+echo -e "\e[1;36m════════════════════════════════════════════════\e[0m" | lolcat
+echo -e "\e[1;35m🔥 Développé par Karim93 🔥\e[0m" | lolcat
+echo -e "\e[1;36m════════════════════════════════════════════════\e[0m" | lolcat
+
