@@ -1,4 +1,8 @@
 #!/bin/bash
+pkill tor > /dev/null 2>&1
+pkill privoxy > /dev/null 2>&1
+sleep 2
+clear
 stty cols 60 rows 20 2>/dev/null
 resize -s 20 60 2>/dev/null
 clear
