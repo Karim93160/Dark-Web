@@ -97,7 +97,7 @@ echo -e "\e[1;36m═════════════════════
 
 TAB_WIDTH=60
 printf "\e[1;33m%-${TAB_WIDTH}s\e[0m\n" "╔══════════════════════════════════════════╗" | lolcat
-printf "\e[1;32m%-${TAB_WIDTH}s\e[0m\n" "║      🌐   Accès Dark Web   🌐           ║" | lolcat
+printf "\e[1;32m%-${TAB_WIDTH}s\e[0m\n" "║      🌐   Accès Dark Web   🌐 By Karim  ║" | lolcat
 printf "\e[1;33m%-${TAB_WIDTH}s\e[0m\n" "╠══════════════════════════════════════════╣" | lolcat
 printf "\e[1;36m%-${TAB_WIDTH}s\e[0m\n" "║  1️⃣  Ahmia       | Annuaire Dark Web    ║" | lolcat
 printf "\e[1;36m%-${TAB_WIDTH}s\e[0m\n" "║  2️⃣  Haystack    | Moteur de recherche  ║" | lolcat
