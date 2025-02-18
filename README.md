@@ -83,6 +83,6 @@ Entrer ↩️
 
 ---
 
-🔥 Clonez, utilisez et explorez en toute sécurité ! 🔥
+🔥 Clonez, utilisez et explorez en toute sécurité
 
 #darkweb #onion #termux #tor #cybersecurity #hacking #privoxy #anonymous #darknet #deepweb #opensource #privacy #security #lynx #cyberpunk #linux #termuxscripts #opensourceproject #terminaltool #pentesting #darkwebaccess
