@@ -1,0 +1,125 @@
+#!/bin/bash
+
+# 🔥 Nettoyage du terminal pour une immersion totale
+clear
+
+# 🔥 Vérification et installation des paquets essentiels
+echo -e "\e[1;34m🔍 Vérification des paquets essentiels...\e[0m"
+PKGS=("tor" "privoxy" "lynx" "python")
+for pkg in "${PKGS[@]}"; do
+    if ! command -v $pkg &>/dev/null; then
+        echo -e "\e[1;33m⚡ Installation de $pkg en cours...\e[0m"
+        pkg install $pkg -y > /dev/null 2>&1
+    fi
+done
+
+# 🔥 Installation de lolcat via pip
+if ! command -v lolcat &>/dev/null; then
+    echo -e "\e[1;33m⚡ Installation de lolcat (pip)...\e[0m"
+    pip install lolcat > /dev/null 2>&1
+fi
+
+# 🔥 Vérification de l'installation
+if ! command -v lolcat &>/dev/null; then
+    echo -e "\e[1;31m❌ ERREUR : Impossible d'installer lolcat. Vérifiez votre installation de Termux.\e[0m"
+    exit 1
+fi
+
+# 🔥 Chargement immersif avant la bannière
+echo -e "\e[1;32mLancement de l'outil Dark Web Access...\e[0m" | lolcat
+sleep 1
+echo -e "\e[1;31mChargement du Terminal en Mode IMMERSION...\e[0m" | lolcat
+sleep 2
+clear
+
+# 🔥 Vérification et correction de la configuration Tor et Privoxy
+echo -e "\e[1;35m🚀 Configuration des fichiers Tor & Privoxy...\e[0m" | lolcat
+TOR_CONFIG="$PREFIX/etc/tor/torrc"
+cat <<EOF > "$TOR_CONFIG"
+SocksPort 9050
+ControlPort 9051
+CookieAuthentication 1
+EOF
+
+PRIVOXY_CONFIG="$PREFIX/etc/privoxy/config"
+cat <<EOF > "$PRIVOXY_CONFIG"
+listen-address 127.0.0.1:8123
+forward-socks5t / 127.0.0.1:9050 .
+enable-remote-toggle 1
+enable-remote-http-toggle 1
+enable-edit-actions 1
+accept-intercepted-requests 1
+EOF
+
+echo -e "\e[1;32m✅ Configuration appliquée avec succès.\e[0m" | lolcat
+sleep 1
+
+# 🔥 Activation de Tor & Privoxy
+echo -e "\e[1;35m🚀 Activation du réseau Tor et Privoxy...\e[0m" | lolcat
+pkill tor > /dev/null 2>&1
+tor > /dev/null 2>&1 &
+sleep 8
+
+pkill privoxy > /dev/null 2>&1
+privoxy --no-daemon $PRIVOXY_CONFIG > /dev/null 2>&1 &
+sleep 2
+
+# 🔥 Vérification de Tor
+echo -ne "\e[1;34mValidation de la connexion Tor...\e[0m" | lolcat
+for i in {1..5}; do echo -n "."; sleep 0.3; done
+echo ""
+
+if curl --silent --proxy http://127.0.0.1:8123 https://check.torproject.org/ | grep -q "Congratulations"; then
+    echo -e "\e[1;32m✅ Tor est bien activé !\e[0m" | lolcat
+else
+    echo -e "\e[1;31m❌ Tor n'est PAS actif ! Vérifiez votre configuration.\e[0m" | lolcat
+    exit 1
+fi
+sleep 1
+
+# 🔥 Affichage de la bannière après le lancement de Tor
+clear
+if [[ -f "banner.txt" ]]; then
+    cat banner.txt | lolcat
+else
+    echo -e "\e[1;31m🚨 Bannière introuvable ! Assurez-vous que 'banner.txt' est dans le répertoire.\e[0m"
+fi
+sleep 2
+
+# 🔥 Affichage du tableau centré avec option EXIT
+echo -e "\e[1;36m════════════════════════════════════════════════\e[0m" | lolcat
+echo -e "\e[1;31m🔹 Sélectionne un site Dark Web :\e[0m" | lolcat
+echo -e "\e[1;36m════════════════════════════════════════════════\e[0m" | lolcat
+
+TAB_WIDTH=60
+printf "\e[1;33m%-${TAB_WIDTH}s\e[0m\n" "╔══════════════════════════════════════════╗" | lolcat
+printf "\e[1;32m%-${TAB_WIDTH}s\e[0m\n" "║      🌐   Accès Dark Web   🌐           ║" | lolcat
+printf "\e[1;33m%-${TAB_WIDTH}s\e[0m\n" "╠══════════════════════════════════════════╣" | lolcat
+printf "\e[1;36m%-${TAB_WIDTH}s\e[0m\n" "║  1️⃣  Ahmia       | Annuaire Dark Web    ║" | lolcat
+printf "\e[1;36m%-${TAB_WIDTH}s\e[0m\n" "║  2️⃣  Haystack    | Moteur de recherche  ║" | lolcat
+printf "\e[1;36m%-${TAB_WIDTH}s\e[0m\n" "║  3️⃣  Torch       | Moteur alternatif    ║" | lolcat
+printf "\e[1;36m%-${TAB_WIDTH}s\e[0m\n" "║  4️⃣  OnionLink   | Passerelle Tor       ║" | lolcat
+printf "\e[1;36m%-${TAB_WIDTH}s\e[0m\n" "║  5️⃣  DuckDuckGo  | Recherche anonyme    ║" | lolcat
+printf "\e[1;33m%-${TAB_WIDTH}s\e[0m\n" "╠══════════════════════════════════════════╣" | lolcat
+printf "\e[1;31m%-${TAB_WIDTH}s\e[0m\n" "║  ❌  0️⃣  Quitter                           ║" | lolcat
+printf "\e[1;33m%-${TAB_WIDTH}s\e[0m\n" "╚══════════════════════════════════════════╝" | lolcat
+
+echo -e "\e[1;36m════════════════════════════════════════════════\e[0m" | lolcat
+
+# 🔥 Demande du choix
+read -p "🔹 Tape le numéro de ton choix : " choice
+
+# 🔥 Forcer l'utilisation de Privoxy pour les requêtes Tor
+export http_proxy="http://127.0.0.1:8123"
+export https_proxy="http://127.0.0.1:8123"
+
+# 🔥 Redirige vers le bon site Dark Web via Lynx avec proxy actif
+case $choice in
+  1) lynx http://juhanurmihxlp77nkq76byazcldy2hlmovfu2epvl5ankdibsot4csyd.onion/ ;;
+  2) lynx http://haystak5njsmn2hqkewecpaxetahtwhsbsa64jom2k22z5afxhnpxfid.onion/ ;;
+  3) lynx http://xmh57jrknzkhv6y3ls3ubitzfqnkrwxhopf5aygthi7d6rplyvk3noyd.onion/ ;;
+  4) lynx http://jaz45aabn5vkemy4jkg4mi4syheisqn2wn2n4fsuitpccdackjwxplad.onion/ ;;
+  5) lynx http://duckduckgogg42xjoc72x3sjasowoarfbgcmvfimaftt6twagswzczad.onion/ ;;
+  0) echo -e "\e[1;35m🔥 Fermeture du programme.\e[0m" | lolcat; exit 0 ;;
+  *) echo -e "\e[1;31m❌ Option invalide.\e[0m" | lolcat; exit 1 ;;
+esac
