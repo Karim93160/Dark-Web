@@ -75,12 +75,7 @@ Entrer ↩️
 [![Sponsor Me](https://img.shields.io/badge/💰-Sponsor%20Me-green)](https://github.com/sponsors/Karim93160)
 [![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-orange)](https://www.buymeacoffee.com/Karim93160)
 
-## 🚀 Contribution
 
-1. **Fork** le repo 🍴
-2. **Clone** ton fork localement :
-   ```sh
-   git clone https://github.com/Karim93160/Dark-Web.git
 
 
 ⚠️ DISCLAIMER (AVERTISSEMENT LÉGAL)
