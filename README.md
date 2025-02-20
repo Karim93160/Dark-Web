@@ -72,7 +72,7 @@ Entrer ↩️
 ![GitHub issues](https://img.shields.io/github/issues/Karim93160/Dark-Web)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/Karim93160/Dark-Web)
 
-[![Sponsor Me](https://img.shields.io/badge/💰-Sponsor%20Me-green)](https://github.com/sponsors/Dark-Web)
+[![Sponsor Me](https://img.shields.io/badge/💰-Sponsor%20Me-green)](https://github.com/sponsors/karim93160)
 [![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-orange)](https://www.buymeacoffee.com/karim93160)
 
 ## 🚀 Contribution
