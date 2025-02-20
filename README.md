@@ -23,10 +23,20 @@
 [![Lynx](https://img.shields.io/badge/Lynx-Terminal%20Browser-green)]()
 ![GitHub Gif](https://github.com/Karim93160/Dar-Web/blob/a75d1adc6d3d726b441609b116486e2a9b72424b/3ohuPmPujsVYeo91oQ.gif)
 
-<video width="100%" controls>
-  <source src="https://limewire.com/d/72af7d53-37a9-4ca1-b69b-cace2ed193ad#G0QQbiUNbCwmvLi-ZZ8IAs2MUgaoq4tWymZfmO6DpLY" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Demo Dark-Web</title>
+</head>
+<body>
+    <video width="100%" controls>
+        <source src="https://limewire.com/d/72af7d53-37a9-4ca1-b69b-cace2ed193ad#G0QQbiUNbCwmvLi-ZZ8IAs2MUgaoq4tWymZfmO6DpLY" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+</body>
+</html>
 
 📥 INSTALLATION RAPIDE (Copie-Colle sur Termux)
 ```
