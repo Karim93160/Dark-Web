@@ -8,6 +8,8 @@
 [![Sponsor Me](https://img.shields.io/badge/💰-Sponsor%20Me-green)](https://github.com/sponsors/Karim93160)
 [![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-orange)](https://www.buymeacoffee.com/Karim93160)
 
+![GitHub Gif](https://github.com/Karim93160/Dark-Web/blob/b362bca9e0d1efca2442e06c0c8caa781ea5eeb5/eY1cJTWCuTC7l7IjtP.gif)
+
 [![Version](https://img.shields.io/badge/Version-1.0-blue)]()  
 [![Status](https://img.shields.io/badge/Status-Stable-brightgreen)]()  
 [![Platform](https://img.shields.io/badge/Platform-Termux-orange)]()  
@@ -21,11 +23,10 @@
 ![GitHub Gif](https://github.com/Karim93160/Dar-Web/blob/a75d1adc6d3d726b441609b116486e2a9b72424b/3ohuPmPujsVYeo91oQ.gif)
 
 
-
 🔹 Dark-Web Access est un outil de navigation sur le Dark Web en terminal avec Tor, Privoxy et Lynx.
 🔹 Il offre un accès rapide et sécurisé aux moteurs de recherche .onion via un menu interactif immersif.
 
-![GitHub Gif](https://github.com/Karim93160/Dar-Web/blob/a75d1adc6d3d726b441609b116486e2a9b72424b/l4FGv866Xu8lsBUOc.gif)
+![GitHub Gif](https://github.com/Karim93160/Dark-Web/blob/b362bca9e0d1efca2442e06c0c8caa781ea5eeb5/VzjvXj7AwKOkzPjMOe.gif)
 
 📌 FONCTIONNALITÉS
 
