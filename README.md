@@ -72,13 +72,13 @@ Entrer ↩️
 ![GitHub issues](https://img.shields.io/github/issues/Karim93160/Dark-Web)
 ![GitHub pull requests](https://img.shields.io/github/issues-pr/Karim93160/Dark-Web)
 
-[![Sponsor Me](https://img.shields.io/badge/💰-Sponsor%20Me-green)](https://github.com/sponsors/karim93160)
-[![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-orange)](https://www.buymeacoffee.com/karim93160)
+[![Sponsor Me](https://img.shields.io/badge/💰-Sponsor%20Me-green)](https://github.com/sponsors/Karim93160)
+[![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-orange)](https://www.buymeacoffee.com/Karim93160)
 
 ## 🚀 Contribution
 
-1. **Fork** le repo 🍴  
-2. **Clone** ton fork localement :  
+1. **Fork** le repo 🍴
+2. **Clone** ton fork localement :
    ```sh
    git clone https://github.com/Karim93160/Dark-Web.git
 
