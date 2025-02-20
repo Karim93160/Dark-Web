@@ -8,8 +8,6 @@
 [![Sponsor Me](https://img.shields.io/badge/💰-Sponsor%20Me-green)](https://github.com/sponsors/Karim93160)
 [![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-orange)](https://www.buymeacoffee.com/Karim93160)
 
-## 🚀 Demo Dark-Web
-[![Demo Dark-Web](https://img.shields.io/badge/Demo-Dark--Web-black?style=for-the-badge&logo=torbrowser)](https://github.com/Karim93160/Dark-Web/blob/eab33e83df8f66b6855120a8b1b31458e618271b/Projet_02-20(1)_4K_HIGH_FR60.mp4)
 
 ![GitHub Gif](https://github.com/Karim93160/Dark-Web/blob/b362bca9e0d1efca2442e06c0c8caa781ea5eeb5/eY1cJTWCuTC7l7IjtP.gif)
 
@@ -25,6 +23,15 @@
 [![Lynx](https://img.shields.io/badge/Lynx-Terminal%20Browser-green)]()
 ![GitHub Gif](https://github.com/Karim93160/Dar-Web/blob/a75d1adc6d3d726b441609b116486e2a9b72424b/3ohuPmPujsVYeo91oQ.gif)
 
+<video width="100%" controls>
+  <source src="https://limewire.com/d/72af7d53-37a9-4ca1-b69b-cace2ed193ad#G0QQbiUNbCwmvLi-ZZ8IAs2MUgaoq4tWymZfmO6DpLY" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+📥 INSTALLATION RAPIDE (Copie-Colle sur Termux)
+```
+pkg update -y && pkg upgrade -y && pkg install git -y && git clone https://github.com/Karim93160/Dark-Web.git && cd Dark-Web && chmod +x dark-web && mv dark-web $PREFIX/bin/ && chmod 700 $PREFIX/bin/dark-web && termux-reload-settings && dark-web
+```
 
 🔹 Dark-Web Access est un outil de navigation sur le Dark Web en terminal avec Tor, Privoxy et Lynx.
 🔹 Il offre un accès rapide et sécurisé aux moteurs de recherche .onion via un menu interactif immersif.
@@ -42,12 +49,6 @@
 ✅ Effets Cyberpunk et animation immersive
 
 
-
-
-📥 INSTALLATION RAPIDE (Copie-Colle sur Termux)
-```
-pkg update -y && pkg upgrade -y && pkg install git -y && git clone https://github.com/Karim93160/Dark-Web.git && cd Dark-Web && chmod +x dark-web && mv dark-web $PREFIX/bin/ && chmod 700 $PREFIX/bin/dark-web && termux-reload-settings && dark-web
-```
 
 ![GitHub Gif](https://github.com/Karim93160/Dar-Web/blob/a75d1adc6d3d726b441609b116486e2a9b72424b/xTiIzqnLJgIgKqHgxW.gif)
 
