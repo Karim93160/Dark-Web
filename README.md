@@ -1,7 +1,12 @@
-🚀 DARK-WEB ACCESS
+# Dark-Web 🕶️
 
-![GitHub Gif](https://github.com/Karim93160/Dar-Web/blob/a75d1adc6d3d726b441609b116486e2a9b72424b/3oKIPlCroSFHV8uoko.gif)
-Ultimatool
+![GitHub stars](https://img.shields.io/github/stars/Karim93160/Dark-Web?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Karim93160/Dark-Web?style=social)
+![GitHub issues](https://img.shields.io/github/issues/Karim93160/Dark-Web)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Karim93160/Dark-Web)
+
+[![Sponsor Me](https://img.shields.io/badge/💰-Sponsor%20Me-green)](https://github.com/sponsors/Karim93160)
+[![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-orange)](https://www.buymeacoffee.com/Karim93160)
 
 [![Version](https://img.shields.io/badge/Version-1.0-blue)]()  
 [![Status](https://img.shields.io/badge/Status-Stable-brightgreen)]()  
@@ -63,19 +68,6 @@ Entrer ↩️
 
 
 ---
-
-
-# Dark-Web 🕶️
-
-![GitHub stars](https://img.shields.io/github/stars/Karim93160/Dark-Web?style=social)
-![GitHub forks](https://img.shields.io/github/forks/Karim93160/Dark-Web?style=social)
-![GitHub issues](https://img.shields.io/github/issues/Karim93160/Dark-Web)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/Karim93160/Dark-Web)
-
-[![Sponsor Me](https://img.shields.io/badge/💰-Sponsor%20Me-green)](https://github.com/sponsors/Karim93160)
-[![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-orange)](https://www.buymeacoffee.com/Karim93160)
-
-
 
 
 ⚠️ DISCLAIMER (AVERTISSEMENT LÉGAL)
