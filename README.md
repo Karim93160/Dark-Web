@@ -63,7 +63,10 @@ pkg update -y && pkg upgrade -y && pkg install git -y && git clone https://githu
 1️⃣ Lancer l'outil en écrivant simplement :
 
 dark-web
-+
+
+
+Puis en appuyant sur :
+
 Entrer ↩️
 
 2️⃣ Choisis un moteur de recherche Dark Web dans la liste.
