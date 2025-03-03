@@ -73,7 +73,7 @@ Entrer ↩️
 
 3️⃣ Navigue avec Lynx en toute sécurité.
 
-4️⃣ Ferme avec CTRL + C ou 0 pour quitter.
+4️⃣ Ferme avec MAJ ⬆️ + Q pour quitter.
 
 
 ---
