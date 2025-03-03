@@ -25,7 +25,9 @@
 [![Anonymous](https://img.shields.io/badge/Anonymous-Browsing-black)]()  
 [![Lynx](https://img.shields.io/badge/Lynx-Terminal%20Browser-green)]()
 
+---
 
+# 📥 INSTALLATION RAPIDE 
 
 (Copie-Colle sur Termux)
 ```
