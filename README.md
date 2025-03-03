@@ -86,7 +86,9 @@ Entrer ↩️
 
 
 
-⚠️ DISCLAIMER (AVERTISSEMENT LÉGAL)
+⚠️ DISCLAIMER
+
+(AVERTISSEMENT LÉGAL)
 
 🔴 Cet outil est strictement destiné à une utilisation légale et éthique.
 
