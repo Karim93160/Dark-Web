@@ -38,7 +38,10 @@ pkg update -y && pkg upgrade -y && pkg install git -y && git clone https://githu
 
 # 📜 RÉSUMÉ 
 
-🔹 Dark-Web Access est un outil de navigation sur le Dark Web en terminal avec Tor, Privoxy et Lynx.
+🔹 Dark-Web Access est un outil de navigation sur le Dark Web en terminal avec :
+- Tor,
+- Privoxy
+- Lynx.
 
 🔹 Il offre un accès rapide et sécurisé aux moteurs de recherche .onion via un menu interactif immersif.
 
