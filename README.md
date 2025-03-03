@@ -83,18 +83,20 @@ DARK WEB ☠️
 
 1️⃣ Lancer l'outil en écrivant simplement :
 
-dark-web
+- dark-web
 
 
 Puis en appuyant sur :
 
-Entrer ↩️
+- Entrer ↩️
 
 2️⃣ Choisis un moteur de recherche Dark Web dans la liste.
 
 3️⃣ Navigue avec Lynx en toute sécurité.
 
-4️⃣ Ferme avec MAJ ⬆️ + Q pour quitter.
+4️⃣ Ferme avec :
+
+- MAJ ⬆️ + Q pour quitter.
 
 ---
 
