@@ -94,9 +94,15 @@ Puis en appuyant sur :
 
 3️⃣ Navigue avec Lynx en toute sécurité.
 
-4️⃣ Ferme avec :
+4️⃣ Sort du Dark-Web avec :
 
-- MAJ ⬆️ + Q pour quitter.
+- MAJ ⬆️ + Q
+
+pour quitter le navigateur ouvert avec Lynx.
+
+6️⃣ Ferme l'outil avec :
+
+- 0 + Entrer ↩️
 
 ---
 
