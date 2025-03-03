@@ -47,7 +47,9 @@ pkg update -y && pkg upgrade -y && pkg install git -y && git clone https://githu
 ---
 
 🌐 5 MOTEURS DE RECHERCHE
-DARK WEB ♾️
+
+DARK WEB ☠️
+
 ![GitHub Gif](https://github.com/Karim93160/Dar-Web/blob/a75d1adc6d3d726b441609b116486e2a9b72424b/3ohuPmPujsVYeo91oQ.gif)
 
 ---
