@@ -23,8 +23,7 @@
 [![Lynx](https://img.shields.io/badge/Lynx-Terminal%20Browser-green)]()
 
 
-
-📥 INSTALLATION RAPIDE
+# 📥 INSTALLATION RAPIDE
 
 (Copie-Colle sur Termux)
 ```
@@ -37,7 +36,7 @@ pkg update -y && pkg upgrade -y && pkg install git -y && git clone https://githu
 
 ![GitHub Gif](https://github.com/Karim93160/Dark-Web/blob/b362bca9e0d1efca2442e06c0c8caa781ea5eeb5/VzjvXj7AwKOkzPjMOe.gif)
 
-📌 FONCTIONNALITÉS
+# 📌 FONCTIONNALITÉS
 
 ✅ Installation automatique de Tor, Privoxy et Lynx
 
@@ -57,7 +56,7 @@ pkg update -y && pkg upgrade -y && pkg install git -y && git clone https://githu
 
 ![GitHub Gif](https://github.com/Karim93160/Dar-Web/blob/a75d1adc6d3d726b441609b116486e2a9b72424b/xTiIzqnLJgIgKqHgxW.gif)
 
-📖 UTILISATION
+# 📖 UTILISATION
 
 1️⃣ Lancer l'outil en écrivant simplement :
 
@@ -77,7 +76,7 @@ Entrer ↩️
 
 ---
 
-🌐 5 MOTEURS DE RECHERCHE DARK WEB ♾️
+# 🌐 5 MOTEURS DE RECHERCHE DARK WEB ♾️
 ![GitHub Gif](https://github.com/Karim93160/Dar-Web/blob/a75d1adc6d3d726b441609b116486e2a9b72424b/3ohuPmPujsVYeo91oQ.gif)
 
 
@@ -86,7 +85,7 @@ Entrer ↩️
 
 
 
-⚠️ DISCLAIMER
+# ⚠️ DISCLAIMER
 
 (AVERTISSEMENT LÉGAL)
 
@@ -99,7 +98,7 @@ Entrer ↩️
 
 ---
 
-💀 DÉVELOPPEUR
+# 💀 DÉVELOPPEUR
 
 👨‍💻 Karim93160
 
@@ -112,6 +111,6 @@ Entrer ↩️
 
 ---
 
-🔥 Clonez, utilisez et explorez en toute sécurité
+# 🔥 Clonez, utilisez et explorez en toute sécurité
 
 #darkweb #onion #termux #tor #cybersecurity #hacking #privoxy #anonymous #darknet #deepweb #opensource #privacy #security #lynx #cyberpunk #linux #termuxscripts #opensourceproject #terminaltool #pentesting #darkwebaccess
