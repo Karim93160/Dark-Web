@@ -125,14 +125,20 @@ Entrer ↩️
 
 - Créateur & Codeur du projet
 
-🔹 GitHub : Karim93160
+🔹 GitHub :
 
-🔹 Contact : 🛑 Pas d’assistance pour les activités illégales.
+- Karim93160
+
+🔹 Contact :
+
+- 🛑 Pas d’assistance pour les activités illégales.
 
 
 ---
 
-🔥 Clonez, utilisez et explorez en toute sécurité
+- 🔥 Clonez,
+- utilisez,
+- explorez en toute sécurité !
 
 ---
 
