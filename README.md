@@ -146,8 +146,8 @@ pour quitter le navigateur ouvert avec Lynx.
 
 
 ---
-
-- 🔥 Clonez,
+# 🔥
+- Clonez,
 - utilisez,
 - explorez en toute sécurité !
 
