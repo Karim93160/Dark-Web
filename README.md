@@ -26,6 +26,7 @@
 [![Demo Dark-Web](https://github.com/Karim93160/Dark-Web/blob/269d695d6b12d7c78bed576b7d29585a8be5a6c7/Screenshot_20250220_021549_Termux.jpg)](https://youtube.com/shorts/5fkXf3MrzVk?si=YpxptTqGoeF0G8Rh)
 
 📥 INSTALLATION RAPIDE
+
 (Copie-Colle sur Termux)
 ```
 pkg update -y && pkg upgrade -y && pkg install git -y && git clone https://github.com/Karim93160/Dark-Web.git && cd Dark-Web && chmod +x dark-web && mv dark-web $PREFIX/bin/ && chmod 700 $PREFIX/bin/dark-web && termux-reload-settings && dark-web
