@@ -57,21 +57,21 @@ DARK WEB ☠️
 
 ---
 
-# 📌 FONCTIONNALITÉS
+# 📌 FONCTIONS
 
-✅ Installation automatique de Tor, Privoxy et Lynx
+- ✅ Installation automatique de Tor, Privoxy et Lynx
 
-✅ Configuration optimisée pour Termux
+- ✅ Configuration optimisée pour Termux
 
-✅ Menu immersif en style machine à écrire
+- ✅ Menu immersif en style machine à écrire
 
-✅ Vérification et activation de Tor & Privoxy
+- ✅ Vérification et activation de Tor & Privoxy
 
-✅ Tableau structuré des sites Dark Web disponibles
+- ✅ Tableau structuré des sites Dark Web disponibles
 
-✅ Sélection et accès rapide aux sites .onion
+- ✅ Sélection et accès rapide aux sites .onion
 
-✅ Effets Cyberpunk et animation immersive
+- ✅ Effets Cyberpunk et animation immersive
 
 
 
