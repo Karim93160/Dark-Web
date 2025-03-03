@@ -23,7 +23,8 @@
 [![Lynx](https://img.shields.io/badge/Lynx-Terminal%20Browser-green)]()
 
 
-# 📥INSTALLATION RAPIDE
+# 📥
+# INSTALLATION RAPIDE
 
 (Copie-Colle sur Termux)
 ```
