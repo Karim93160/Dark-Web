@@ -106,7 +106,13 @@ Entrer ↩️
 
 🔴 Cet outil est strictement destiné à une utilisation légale et éthique.
 
-🔴 L’accès au Dark Web comporte des risques : failles de sécurité, contenus illégaux, traçabilité par les autorités.
+🔴 L’accès au Dark Web comporte des risques :
+
+- failles de sécurité,
+
+- contenus illégaux,
+
+- traçabilité par les autorités.
 
 🔴 L’auteur décline toute responsabilité en cas d’usage frauduleux ou illégal.
 
