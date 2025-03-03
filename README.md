@@ -41,11 +41,17 @@ pkg update -y && pkg upgrade -y && pkg install git -y && git clone https://githu
 📌 FONCTIONNALITÉS
 
 ✅ Installation automatique de Tor, Privoxy et Lynx
+
 ✅ Configuration optimisée pour Termux
+
 ✅ Menu immersif en style machine à écrire
+
 ✅ Vérification et activation de Tor & Privoxy
+
 ✅ Tableau structuré des sites Dark Web disponibles
+
 ✅ Sélection et accès rapide aux sites .onion
+
 ✅ Effets Cyberpunk et animation immersive
 
 
@@ -61,7 +67,9 @@ dark-web
 Entrer ↩️
 
 2️⃣ Choisis un moteur de recherche Dark Web dans la liste.
+
 3️⃣ Navigue avec Lynx en toute sécurité.
+
 4️⃣ Ferme avec CTRL + C ou 0 pour quitter.
 
 
@@ -76,7 +84,9 @@ Entrer ↩️
 ⚠️ DISCLAIMER (AVERTISSEMENT LÉGAL)
 
 🔴 Cet outil est strictement destiné à une utilisation légale et éthique.
+
 🔴 L’accès au Dark Web comporte des risques : failles de sécurité, contenus illégaux, traçabilité par les autorités.
+
 🔴 L’auteur décline toute responsabilité en cas d’usage frauduleux ou illégal.
 
 
@@ -84,9 +94,12 @@ Entrer ↩️
 
 💀 DÉVELOPPEUR
 
-👨‍💻 Karim93160 - Créateur & Codeur du projet
+👨‍💻 Karim93160
+
+- Créateur & Codeur du projet
 
 🔹 GitHub : Karim93160
+
 🔹 Contact : 🛑 Pas d’assistance pour les activités illégales.
 
 
