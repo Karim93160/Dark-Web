@@ -29,7 +29,7 @@
 
 # 📥 INSTALLATION RAPIDE 
 
-(Copie-Colle sur Termux)
+- (Copie-Colle sur Termux)
 ```
 pkg update -y && pkg upgrade -y && pkg install git -y && git clone https://github.com/Karim93160/Dark-Web.git && cd Dark-Web && chmod +x dark-web && mv dark-web $PREFIX/bin/ && chmod 700 $PREFIX/bin/dark-web && termux-reload-settings && dark-web
 ```
