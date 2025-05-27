@@ -38,7 +38,6 @@
 ```
 yes "N" | pkg update -y && yes "N" | pkg upgrade -y && pkg install -y git boxes toilet ruby && gem install lolcat && git clone https://github.com/Karim93160/Dark-Web.git && cd Dark-Web && chmod +x dark-web && mv dark-web $PREFIX/bin/ && chmod 700 $PREFIX/bin/dark-web && termux-reload-settings && dark-web
 
-
 ```
 
 ---
