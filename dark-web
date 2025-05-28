@@ -78,14 +78,14 @@ clear
 
 SCRIPT_DIR="$(dirname "$(realpath "$0")")"
 
-if [[ -f "$SCRIPT_DIR/binsta-dark-web.txt" ]]; then
+if [[ -f "$SCRIPT_DIR/banner-dark-web.txt" ]]; then
     BANNER_PATH="$SCRIPT_DIR/banner-dark-web.txt"
 elif [[ -f "$PREFIX/share/dark-web/banner-dark-web.txt" ]]; then
-    BANNER_PATH="$PREFIX/share/dark-web/baTerm-dark-web.txt"
-elif [[ -f "$HOME/Dark-Web/blolca-dark-web.txt" ]]; then
-    BANNER_PATH="$HOME/Dark-Web/bannde-dark-web.txt"
+    BANNER_PATH="$PREFIX/share/dark-web/banner-dark-web.txt"
+elif [[ -f "$HOME/Dark-Web/banner-dark-web.txt" ]]; then
+    BANNER_PATH="$HOME/Dark-Web/banner-dark-web.txt"
 else
-    echo -e "\e[1;31m🚨 Bannière introuvable ! Assurez-vous que 'banner.txt' est dans le bon répertoire.\e[0m"
+    echo -e "\e[1;31m🚨 Bannière introuvable ! Assurez-vous que 'banner-dark-web.txt' est dans le bon répertoire.\e[0m"
     exit 1
 fi
 
