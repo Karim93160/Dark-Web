@@ -19,7 +19,7 @@
 
 ---
 
-[![Version](https://img.shields.io/badge/Version-1.0-blue)]()  
+[![Version](https://img.shields.io/badge/Version-2.1-blue)]()  
 [![Status](https://img.shields.io/badge/Status-Stable-brightgreen)]()  
 [![Platform](https://img.shields.io/badge/Platform-Termux-orange)]()  
 [![Tor](https://img.shields.io/badge/Tor-Enabled-purple)]()  
